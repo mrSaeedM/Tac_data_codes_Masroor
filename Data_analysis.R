@@ -5,7 +5,7 @@ if (!requireNamespace('gtsummary', quietly = TRUE)) {
 
 library(dplyr)
 library(gtsummary)
-setwd('/Users/saeedmasroor/Documents/applications/Bioinformatician Pharmacology and Toxicology - Radboud')
+setwd('')
 
 # read the df_merged.csv file
 all_data <- read.csv('merged_df2.csv')
